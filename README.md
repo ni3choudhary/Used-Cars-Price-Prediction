@@ -1,5 +1,5 @@
 # Used-Cars-Price-Prediction 🏎🚙⛽️
- [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/avikasliwal/used-cars-price-prediction) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![TensorFlow](https://img.shields.io/badge/Library-TensorFlow-orange.svg)
+ [![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg)](https://www.kaggle.com/avikasliwal/used-cars-price-prediction) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
 ### Problem statement:
 A ML based Web application that helps in predicting the *selling price* of a used 🚗 🚙
